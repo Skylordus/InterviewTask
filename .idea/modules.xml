@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewTask.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewTask_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewTask_main.iml" group="InterviewTask" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewTask_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewTask_test.iml" group="InterviewTask" />
+    </modules>
+  </component>
+</project>
